@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Dr. Li’s Homepage"
+title: "Your Name / Site Title"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
