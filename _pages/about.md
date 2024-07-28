@@ -23,7 +23,7 @@ Ongoing and future work
 * * Spatio-temporal trajectory and travel behaviour analysis, prediction and generation
 * The Interaction between Urban Mobility and Built Environment
 * * Urban visual intelligence in built environment evaluation 
-* * Agent-environment interaction simulation of mobility behaviour based on agent-based model, reinforcement learning,etc
+* * Agent-environment interaction simulation of mobility behaviour based on agent-based model, reinforcement learning and other AI techniques.
 * Sustainable and Healthy Cities 
 * * Urban health, emergency preparedness and response
 * * Generative AI for urban mobility and planning
