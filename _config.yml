@@ -22,9 +22,9 @@ repository               : "qiumengl/qiumengl.github.io"
 author:
   # Biographic information
   avatar           : "profig1.png"
-  name             : "Qiumeng Li at Hong Kong University of Science and Technology (Guangzhou)"
+  name             : "Qiumeng Li"
   pronouns         : # example: "she/her"  
-  bio              : "Assistant professor"
+  bio              : "Assistant professor at Hong Kong University of Science and Technology (Guangzhou)"
   location         : "Guangzhou, China"
   employer         : "HKUST(GZ)"
   uri              : # URL
