@@ -12,7 +12,7 @@ Dr. Qiumeng Li is currently an Assistant Professor at [the Urban Governance and 
 
 Education
 ======
-* Ph.D. in Land Economy(urban computing), University of Cambridge (2024)
+* Ph.D. in Land Economy(Urban Computing), University of Cambridge (2024)
 * Master of Urban Planning, Tsinghua University (2019)
 * Bachelor of Urban Planning, Sun Yat-Sen University (2017)
 
