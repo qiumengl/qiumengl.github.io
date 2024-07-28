@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: " Name"
+title: "Dr.Li’s Homepage"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
