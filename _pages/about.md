@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Dr. Qiumeng Li is currently an Assistant Professor at [the Urban Governance and Design (UGOD) Thrust](https://soch.hkust-gz.edu.cn/academics/ugod/), [The Hong Kong University of Science and Technology (Guangzhou)](https://www.hkust-gz.edu.cn/). Her research fields are mobility and urban computing, including spatiotemporal data mining, shared mobility analysis, built environment perception, geospatial inference, urban intelligent models, and AI agents for urban mobility and planning.
+Dr. Qiumeng Li is a joint Assistant Professor of the Urban Governance and Design Thrust and the Intelligent Transportation Thrust at The Hong Kong University of Science and Technology (Guangzhou). Her research fields are urban computing and mobility analytics, including GeoAI, spatio-temporal behavior simulation, built-environment visual perception (street-view visual cognition and spatial cognition), micro-mobility and shared mobility analysis, and human-centered AI agent design (LLMs, RL, ABM) for computational urban science and human mobility. Through these efforts, she aims to advance sustainable and healthy cities, smart transport governance, and social equity.
 
 Education
 ======
